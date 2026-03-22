@@ -17,6 +17,10 @@
 
 Maintainers get pinged at all hours. Sometimes a polite "I'm offline, I'll look at this tomorrow" is all you need to reduce anxiety — yours *and* the contributor's. Trunkly does that automatically, hands-free.
 
+## How it works
+
+![](.github/assets/flow-diagram.png)
+
 ---
 
 ## What it looks like
